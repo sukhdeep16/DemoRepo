@@ -6,4 +6,9 @@ public class TestBase {
 		System.out.println("Test Method in com.qa.libs");
 	}
 
+	
+	
+	public void extra() {
+		System.out.println("extra printed");
+	}
 }
