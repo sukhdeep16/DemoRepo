@@ -11,4 +11,10 @@ public class TestBase {
 	public void extra() {
 		System.out.println("extra printed");
 	}
+	
+	public void addedOnGITHUB(){
+		System.out.println("Written in GITHUB");
+	}
+	
+	
 }
