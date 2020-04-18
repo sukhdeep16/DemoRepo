@@ -8,5 +8,6 @@ public class Homepage {
 	
 	public void secondDay() {
 		System.out.println("SEcond day in GIT");
+		System.out.println("SEcond day in GIT2");
 	}
 }
